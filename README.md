@@ -17,9 +17,8 @@ It also includes:
 
 ## Star Model Diagram
 
-Add your star schema image at `assets/star-model.png`:
+<img width="800" height="541" alt="Screenshot from 2026-03-27 01-33-29" src="https://github.com/user-attachments/assets/789a005d-f4fb-4c63-97f4-3a210c40d54d" />
 
-![Star Model](./assets/star-model.png)
 
 ## Tech Stack
 
